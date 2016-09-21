@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.row {margin-top: -60px;
+}
+
+button {
+  margin-left: 440px;
+  margin-top: 10px;
+  float: right;
+}
+
+.container {
+  margin: 20px auto;
+  width: 100%;
+}
+
+.content {
+  float: right;
+  width: 40%;
+  margin-right: 20px;
+  
+}
+
+.aside {
+  background:;
+  float: left;
+  padding: 0 20px;
+  width: 50%;
+
+}
+
+p {
+  margin-bottom: 1.5em;
+  font-family: Garamond;
+  font-size: 1.5em;
+  margin-left: 170px;
+  margin-top: 0px;
+  text-align: left;
+  margin-right: 30px;
+}
+
+.stickit {
+  margin-left: 0px;
+  position: fixed;
+  top: 0;
+}
+
+.stickit-end {
+  bottom: 40px;
+  position: absolute;
+  left: 0;
+}
